@@ -1,0 +1,6 @@
+{
+  "name": "Online Exam System",
+  "description": "A secure, offline-first Math & World GK Online Examination System with detailed Admin controls and real-time student testing interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
